@@ -1,0 +1,124 @@
+dhfvwjvwjhevfwedsjdvwwrgewgqwfqwtimeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1660212569270,220,yesIpledge,200,OK,users 1-1,text,true,,8448,270,1,1,https://partner.reposenergy.com/yesIpledge,95,0,22
+1660212569270,95,yesIpledge-0,301,Moved Permanently,users 1-1,,true,,706,135,1,1,http://partner.reposenergy.com/yesIpledge,95,0,22
+1660212569366,124,yesIpledge-1,200,OK,users 1-1,text,true,,7742,135,1,1,https://partner.reposenergy.com/yesIpledge,123,0,81
+1660212569491,3609,yesIpledge API,200,OK,users 1-1,text,true,,898,318,1,1,https://drf.reposenergy.com/api/web/v1/utilities/ipledge_cert,3608,0,1874
+1660212600545,148,yesIpledge,200,OK,users 1-1,text,true,,8440,270,2,2,https://partner.reposenergy.com/yesIpledge,45,0,17
+1660212600545,45,yesIpledge-0,301,Moved Permanently,users 1-1,,true,,700,135,2,2,http://partner.reposenergy.com/yesIpledge,45,0,17
+1660212600593,100,yesIpledge-1,200,OK,users 1-1,text,true,,7740,135,2,2,https://partner.reposenergy.com/yesIpledge,99,0,48
+1660212600650,139,yesIpledge,200,OK,users 1-2,text,true,,8430,270,3,3,https://partner.reposenergy.com/yesIpledge,48,0,12
+1660212600650,48,yesIpledge-0,301,Moved Permanently,users 1-2,,true,,694,135,3,3,http://partner.reposenergy.com/yesIpledge,48,0,12
+1660212600699,90,yesIpledge-1,200,OK,users 1-2,text,true,,7736,135,3,3,https://partner.reposenergy.com/yesIpledge,90,0,39
+1660212600748,137,yesIpledge,200,OK,users 1-3,text,true,,8436,270,4,4,https://partner.reposenergy.com/yesIpledge,39,0,10
+1660212600748,39,yesIpledge-0,301,Moved Permanently,users 1-3,,true,,694,135,4,4,http://partner.reposenergy.com/yesIpledge,39,0,10
+1660212600787,98,yesIpledge-1,200,OK,users 1-3,text,true,,7742,135,4,4,https://partner.reposenergy.com/yesIpledge,98,0,61
+1660212600853,130,yesIpledge,200,OK,users 1-4,text,true,,8442,270,5,5,https://partner.reposenergy.com/yesIpledge,44,0,11
+
+
+efefef
+1660212600853,44,yesIpledge-0,301,Moved Permanently,users 1-4,,true,,692,135,5,5,http://partner.reposenergy.com/yesIpledge,44,0,11
+1660212600898,85,yesIpledge-1,200,OK,users 1-4,text,true,,7750,135,5,5,https://partner.reposenergy.com/yesIpledge,84,0,35
+1660212600948,119,yesIpledge,200,OK,users 1-5,text,true,,8436,270,6,6,https://partner.reposenergy.com/yesIpledge,38,0,10
+1660212600948,38,yesIpledge-0,301,Moved Permanently,users 1-5,,true,,696,135,6,6,http://partner.reposenergy.com/yesIpledge,38,0,10
+1660212600987,80,yesIpledge-1,200,OK,users 1-5,text,true,,7740,135,6,6,https://partner.reposenergy.com/yesIpledge,79,0,39
+1660212601045,172,yesIpledge,200,OK,users 1-6,text,true,,8434,270,7,7,https://partner.reposenergy.com/yesIpledge,57,0,11
+1660212601045,57,yesIpledge-0,301,Moved Permanently,users 1-6,,true,,696,135,7,7,http://partner.reposenergy.com/yesIpledge,57,0,11
+1660212601103,114,yesIpledge-1,200,OK,users 1-6,text,true,,7738,135,7,7,https://partner.reposenergy.com/yesIpledge,113,0,61
+1660212601144,162,yesIpledge,200,OK,users 1-7,text,true,,8440,270,8,8,https://partner.reposenergy.com/yesIpledge,78,0,15
+1660212601144,78,yesIpledge-0,301,Moved Permanently,users 1-7,,true,,700,135,8,8,http://partner.reposenergy.com/yesIpledge,78,0,15
+1660212601223,83,yesIpledge-1,200,OK,users 1-7,text,true,,7740,135,8,8,https://partner.reposenergy.com/yesIpledge,81,0,49
+1660212601251,108,yesIpledge,200,OK,users 1-8,text,true,,8436,270,9,9,https://partner.reposenergy.com/yesIpledge,37,0,12
+1660212601251,37,yesIpledge-0,301,Moved Permanently,users 1-8,,true,,694,135,9,9,http://partner.reposenergy.com/yesIpledge,37,0,12
+1660212601289,70,yesIpledge-1,200,OK,users 1-8,text,true,,7742,135,9,9,https://partner.reposenergy.com/yesIpledge,69,0,40
+1660212601345,113,yesIpledge,200,OK,users 1-9,text,true,,8448,270,10,10,https://partner.reposenergy.com/yesIpledge,40,0,10
+1660212601345,40,yesIpledge-0,301,Moved Permanently,users 1-9,,true,,698,135,10,10,http://partner.reposenergy.com/yesIpledge,40,0,10
+1660212601385,73,yesIpledge-1,200,OK,users 1-9,text,true,,7750,135,10,10,https://partner.reposenergy.com/yesIpledge,70,0,40
+1660212601447,113,yesIpledge,200,OK,users 1-10,text,true,,8436,270,10,10,https://partner.reposenergy.com/yesIpledge,40,0,11
+1660212601447,40,yesIpledge-0,301,Moved Permanently,users 1-10,,true,,700,135,10,10,http://partner.reposenergy.com/yesIpledge,40,0,11
+1660212601488,72,yesIpledge-1,200,OK,users 1-10,text,true,,7736,135,10,10,https://partner.reposenergy.com/yesIpledge,71,0,44
+1660212601218,1700,yesIpledge API,200,OK,users 1-6,text,true,,902,318,10,10,https://drf.reposenergy.com/api/web/v1/utilities/ipledge_cert,1700,0,34
+1660212601461,1532,yesIpledge API,500,Internal Server Error,users 1-9,text,false,,871,318,9,9,https://drf.reposenergy.com/api/web/v1/utilities/ipledge_cert,1532,0,47
+1660212601561,1462,yesIpledge API,500,Internal Server Error,users 1-10,text,false,,877,318,8,8,https://drf.reposenergy.com/api/web/v1/utilities/ipledge_cert,1462,0,35
+1660212601307,10512,yesIpledge API,500,Internal Server Error,users 1-7,text,false,,865,318,7,7,https://drf.reposenergy.com/api/web/v1/utilities/ipledge_cert,10512,0,51
+1660212601359,13019,yesIpledge API,500,Internal Server Error,users 1-8,text,false,,875,318,6,6,https://drf.reposenergy.com/api/web/v1/utilities/ipledge_cert,13019,0,35
+1660212600694,23111,yesIpledge API,500,Internal Server Error,users 1-1,text,false,,869,318,5,5,https://drf.reposenergy.com/api/web/v1/utilities/ipledge_cert,23111,0,44
+1660212600886,26578,yesIpledge API,500,Internal Server Error,users 1-3,text,false,,873,318,4,4,https://drf.reposenergy.com/api/web/v1/utilities/ipledge_cert,26578,0,38
+1660212600984,26573,yesIpledge API,500,Internal Server Error,users 1-4,text,false,,869,318,3,3,https://drf.reposenergy.com/api/web/v1/utilities/ipledge_cert,26573,0,38
+1660212600790,30074,yesIpledge API,500,Internal Server Error,users 1-2,text,false,,871,318,2,2,https://drf.reposenergy.com/api/web/v1/utilities/ipledge_cert,30074,0,52
+1660212601068,31203,yesIpledge API,500,Internal Server Error,users 1-5,text,false,,869,318,1,1,https://drf.reposenergy.com/api/web/v1/utilities/ipledge_cert,31203,0,35
+1660212649331,135,yesIpledge,200,OK,users 1-1,text,true,,8438,270,2,2,https://partner.reposenergy.com/yesIpledge,38,0,19
+1660212649331,38,yesIpledge-0,301,Moved Permanently,users 1-1,,true,,690,135,2,2,http://partner.reposenergy.com/yesIpledge,38,0,19
+1660212649372,94,yesIpledge-1,200,OK,users 1-1,text,true,,7748,135,2,2,https://partner.reposenergy.com/yesIpledge,94,0,50
+1660212649436,121,yesIpledge,200,OK,users 1-2,text,true,,8430,270,3,3,https://partner.reposenergy.com/yesIpledge,47,0,13
+1660212649436,47,yesIpledge-0,301,Moved Permanently,users 1-2,,true,,698,135,3,3,http://partner.reposenergy.com/yesIpledge,47,0,13
+1660212649483,74,yesIpledge-1,200,OK,users 1-2,text,true,,7732,135,3,3,https://partner.reposenergy.com/yesIpledge,73,0,36
+1660212649536,195,yesIpledge,200,OK,users 1-3,text,true,,8438,270,4,4,https://partner.reposenergy.com/yesIpledge,37,0,9
+1660212649536,37,yesIpledge-0,301,Moved Permanently,users 1-3,,true,,694,135,4,4,http://partner.reposenergy.com/yesIpledge,37,0,9
+1660212649574,157,yesIpledge-1,200,OK,users 1-3,text,true,,7744,135,4,4,https://partner.reposenergy.com/yesIpledge,156,0,34
+1660212649630,116,yesIpledge,200,OK,users 1-4,text,true,,8430,270,5,5,https://partner.reposenergy.com/yesIpledge,49,0,11
+1660212649630,49,yesIpledge-0,301,Moved Permanently,users 1-4,,true,,694,135,5,5,http://partner.reposenergy.com/yesIpledge,49,0,11
+1660212649680,66,yesIpledge-1,200,OK,users 1-4,text,true,,7736,135,5,5,https://partner.reposenergy.com/yesIpledge,63,0,33
+1660212649733,139,yesIpledge,200,OK,users 1-5,text,true,,8434,270,6,6,https://partner.reposenergy.com/yesIpledge,54,0,9
+1660212649733,54,yesIpledge-0,301,Moved Permanently,users 1-5,,true,,698,135,6,6,http://partner.reposenergy.com/yesIpledge,54,0,9
+1660212649788,84,yesIpledge-1,200,OK,users 1-5,text,true,,7736,135,6,6,https://partner.reposenergy.com/yesIpledge,83,0,36
+1660212649832,114,yesIpledge,200,OK,users 1-6,text,true,,8434,270,7,7,https://partner.reposenergy.com/yesIpledge,43,0,11
+1660212649832,43,yesIpledge-0,301,Moved Permanently,users 1-6,,true,,694,135,7,7,http://partner.reposenergy.com/yesIpledge,43,0,11
+1660212649875,71,yesIpledge-1,200,OK,users 1-6,text,true,,7740,135,7,7,https://partner.reposenergy.com/yesIpledge,70,0,35
+1660212649933,120,yesIpledge,200,OK,users 1-7,text,true,,8434,270,8,8,https://partner.reposenergy.com/yesIpledge,37,0,11
+1660212649933,37,yesIpledge-0,301,Moved Permanently,users 1-7,,true,,696,135,8,8,http://partner.reposenergy.com/yesIpledge,37,0,11
+1660212649971,82,yesIpledge-1,200,OK,users 1-7,text,true,,7738,135,8,8,https://partner.reposenergy.com/yesIpledge,82,0,33
+1660212650029,110,yesIpledge,200,OK,users 1-8,text,true,,8434,270,9,9,https://partner.reposenergy.com/yesIpledge,29,0,10
+1660212650029,29,yesIpledge-0,301,Moved Permanently,users 1-8,,true,,698,135,9,9,http://partner.reposenergy.com/yesIpledge,29,0,10
+1660212650058,81,yesIpledge-1,200,OK,users 1-8,text,true,,7736,135,9,9,https://partner.reposenergy.com/yesIpledge,80,0,33
+1660212650127,111,yesIpledge,200,OK,users 1-9,text,true,,8436,270,10,10,https://partner.reposenergy.com/yesIpledge,30,0,12
+1660212650127,30,yesIpledge-0,301,Moved Permanently,users 1-9,,true,,698,135,10,10,http://partner.reposenergy.com/yesIpledge,30,0,12
+1660212650158,80,yesIpledge-1,200,OK,users 1-9,text,true,,7738,135,10,10,https://partner.reposenergy.com/yesIpledge,78,0,36
+1660212650227,116,yesIpledge,200,OK,users 1-10,text,true,,8434,270,10,10,https://partner.reposenergy.com/yesIpledge,43,0,11
+1660212650227,43,yesIpledge-0,301,Moved Permanently,users 1-10,,true,,698,135,10,10,http://partner.reposenergy.com/yesIpledge,43,0,11
+1660212650274,69,yesIpledge-1,200,OK,users 1-10,text,true,,7736,135,10,10,https://partner.reposenergy.com/yesIpledge,69,0,38
+1660212650239,3972,yesIpledge API,200,OK,users 1-9,text,true,,898,318,10,10,https://drf.reposenergy.com/api/web/v1/utilities/ipledge_cert,3972,0,2072
+1660212650344,3920,yesIpledge API,500,Internal Server Error,users 1-10,text,false,,875,318,9,9,https://drf.reposenergy.com/api/web/v1/utilities/ipledge_cert,3920,0,2110
+1660212650054,4306,yesIpledge API,500,Internal Server Error,users 1-7,text,false,,869,318,8,8,https://drf.reposenergy.com/api/web/v1/utilities/ipledge_cert,4306,0,2178
+1660212649467,10080,yesIpledge API,500,Internal Server Error,users 1-1,text,false,,871,318,7,7,https://drf.reposenergy.com/api/web/v1/utilities/ipledge_cert,10080,0,2351
+1660212649751,12447,yesIpledge API,500,Internal Server Error,users 1-4,text,false,,879,318,6,6,https://drf.reposenergy.com/api/web/v1/utilities/ipledge_cert,12447,0,2176
+1660212650140,14107,yesIpledge API,500,Internal Server Error,users 1-8,text,false,,871,318,5,5,https://drf.reposenergy.com/api/web/v1/utilities/ipledge_cert,14106,0,2154
+1660212649947,29762,yesIpledge API,500,Internal Server Error,users 1-6,text,false,,871,318,4,4,https://drf.reposenergy.com/api/web/v1/utilities/ipledge_cert,29762,0,2146
+1660212649558,31481,yesIpledge API,500,Internal Server Error,users 1-2,text,false,,873,318,3,3,https://drf.reposenergy.com/api/web/v1/utilities/ipledge_cert,31481,0,2278
+1660212649732,33654,yesIpledge API,500,Internal Server Error,users 1-3,text,false,,875,318,2,2,https://drf.reposenergy.com/api/web/v1/utilities/ipledge_cert,33654,0,2044
+1660212649873,33829,yesIpledge API,500,Internal Server Error,users 1-5,text,false,,873,318,1,1,https://drf.reposenergy.com/api/web/v1/utilities/ipledge_cert,33829,0,1940
+1660212757914,126,yesIpledge,200,OK,users 1-1,text,true,,8434,270,1,1,https://partner.reposenergy.com/yesIpledge,42,0,13
+1660212757914,42,yesIpledge-0,301,Moved Permanently,users 1-1,,true,,700,135,1,1,http://partner.reposenergy.com/yesIpledge,42,0,13
+1660212757960,80,yesIpledge-1,200,OK,users 1-1,text,true,,7734,135,1,1,https://partner.reposenergy.com/yesIpledge,80,0,47
+1660212758413,110,yesIpledge,200,OK,users 1-2,text,true,,8438,270,2,2,https://partner.reposenergy.com/yesIpledge,36,0,12
+1660212758413,36,yesIpledge-0,301,Moved Permanently,users 1-2,,true,,696,135,2,2,http://partner.reposenergy.com/yesIpledge,36,0,12
+1660212758450,73,yesIpledge-1,200,OK,users 1-2,text,true,,7742,135,2,2,https://partner.reposenergy.com/yesIpledge,72,0,36
+1660212758524,3106,yesIpledge API,200,OK,users 1-2,text,true,,904,318,2,2,https://drf.reposenergy.com/api/web/v1/utilities/ipledge_cert,3106,0,1759
+1660212758042,4305,yesIpledge API,200,OK,users 1-1,text,true,,900,318,1,1,https://drf.reposenergy.com/api/web/v1/utilities/ipledge_cert,4305,0,2158
+1660212859617,120,yesIpledge,200,OK,users 1-1,text,true,,8440,270,2,2,https://partner.reposenergy.com/yesIpledge,39,0,12
+1660212859617,39,yesIpledge-0,301,Moved Permanently,users 1-1,,true,,698,135,2,2,http://partner.reposenergy.com/yesIpledge,39,0,12
+1660212859657,80,yesIpledge-1,200,OK,users 1-1,text,true,,7742,135,2,2,https://partner.reposenergy.com/yesIpledge,80,0,49
+1660212859617,174,yesIpledge,200,OK,users 1-2,text,true,,8426,270,2,2,https://partner.reposenergy.com/yesIpledge,45,0,12
+1660212859617,45,yesIpledge-0,301,Moved Permanently,users 1-2,,true,,690,135,2,2,http://partner.reposenergy.com/yesIpledge,45,0,12
+1660212859666,125,yesIpledge-1,200,OK,users 1-2,text,true,,7736,135,2,2,https://partner.reposenergy.com/yesIpledge,124,0,40
+1660212859739,3175,yesIpledge API,200,OK,users 1-1,text,true,,896,318,2,2,https://drf.reposenergy.com/api/web/v1/utilities/ipledge_cert,3175,0,1543
+1660212859792,3521,yesIpledge API,200,OK,users 1-2,text,true,,896,318,1,1,https://drf.reposenergy.com/api/web/v1/utilities/ipledge_cert,3521,0,1552
+1660212897535,125,yesIpledge,200,OK,users 1-4,text,true,,8436,270,5,5,https://partner.reposenergy.com/yesIpledge,38,0,18
+1660212897535,38,yesIpledge-0,301,Moved Permanently,users 1-4,,true,,694,135,5,5,http://partner.reposenergy.com/yesIpledge,38,0,18
+1660212897577,83,yesIpledge-1,200,OK,users 1-4,text,true,,7742,135,5,5,https://partner.reposenergy.com/yesIpledge,82,0,40
+1660212897530,147,yesIpledge,200,OK,users 1-1,text,true,,8436,270,5,5,https://partner.reposenergy.com/yesIpledge,54,0,22
+1660212897530,54,yesIpledge-0,301,Moved Permanently,users 1-1,,true,,694,135,5,5,http://partner.reposenergy.com/yesIpledge,54,0,22
+1660212897587,90,yesIpledge-1,200,OK,users 1-1,text,true,,7742,135,5,5,https://partner.reposenergy.com/yesIpledge,90,0,52
+1660212897537,157,yesIpledge,200,OK,users 1-5,text,true,,8444,270,5,5,https://partner.reposenergy.com/yesIpledge,46,0,16
+1660212897537,46,yesIpledge-0,301,Moved Permanently,users 1-5,,true,,700,135,5,5,http://partner.reposenergy.com/yesIpledge,46,0,16
+1660212897585,109,yesIpledge-1,200,OK,users 1-5,text,true,,7744,135,5,5,https://partner.reposenergy.com/yesIpledge,100,0,43
+1660212897530,173,yesIpledge,200,OK,users 1-2,text,true,,8438,270,5,5,https://partner.reposenergy.com/yesIpledge,54,0,23
+1660212897530,54,yesIpledge-0,301,Moved Permanently,users 1-2,,true,,694,135,5,5,http://partner.reposenergy.com/yesIpledge,54,0,23
+1660212897591,112,yesIpledge-1,200,OK,users 1-2,text,true,,7744,135,5,5,https://partner.reposenergy.com/yesIpledge,111,0,64
+1660212897532,180,yesIpledge,200,OK,users 1-3,text,true,,8440,270,5,5,https://partner.reposenergy.com/yesIpledge,61,0,21
+1660212897532,61,yesIpledge-0,301,Moved Permanently,users 1-3,,true,,706,135,5,5,http://partner.reposenergy.com/yesIpledge,61,0,21
+1660212897594,118,yesIpledge-1,200,OK,users 1-3,text,true,,7734,135,5,5,https://partner.reposenergy.com/yesIpledge,117,0,61
+1660212897660,776,yesIpledge API,500,Internal Server Error,users 1-4,text,false,,877,318,5,5,https://drf.reposenergy.com/api/web/v1/utilities/ipledge_cert,776,0,370
+1660212897704,732,yesIpledge API,200,OK,users 1-2,text,true,,900,318,5,5,https://drf.reposenergy.com/api/web/v1/utilities/ipledge_cert,732,0,49
+1660212897713,855,yesIpledge API,500,Internal Server Error,users 1-3,text,false,,873,318,3,3,https://drf.reposenergy.com/api/web/v1/utilities/ipledge_cert,855,0,350
+1660212897678,21543,yesIpledge API,500,Internal Server Error,users 1-1,text,false,,869,318,2,2,https://drf.reposenergy.com/api/web/v1/utilities/ipledge_cert,21543,0,57
+1660212897695,30232,yesIpledge API,500,Internal Server Error,users 1-5,text,false,,873,318,1,1,https://drf.reposenergy.com/api/web/v1/utilities/ipledge_cert,30231,0,69
